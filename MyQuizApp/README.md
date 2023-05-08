@@ -1,8 +1,10 @@
 # Flower Quiz
 
 ## Features
-- Multi-pae
+- Multi-page
 - Simple UI
+- Maintains state of the app
+- Results page to show end result of user
 
 ## Screenshots
 - ![image](https://user-images.githubusercontent.com/70219319/236858200-284a3514-2f49-43f0-8d34-71717c29dd9c.png)
